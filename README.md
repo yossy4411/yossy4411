@@ -8,7 +8,6 @@
 
 ## よく使う言語
 - C#
-- C++
 - Java
 - Rust
 - Python
@@ -16,8 +15,13 @@
 
 ## たまに使う言語
 - PHP
+- C++
 - TypeScript (JavaScript)
 
 ## 最近の動向
 
-最近ではPHPでの学生向けアプリの開発とEarthQuakeアプリの開発を同時に行っております
+EarthQuakeアプリの開発を、それに使用するためのライブラリも兼ねて行っております。
+
+## ブログも見てね
+
+https://blog.okayugroup.com
