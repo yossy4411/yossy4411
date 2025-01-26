@@ -1,31 +1,38 @@
-# yossy4411
+👋 **こんにちは！**  
+私はプログラミングが大好きな中学生で、コードを書くことで新しい可能性を広げることを目指しています。
 
-滋賀県在住の男子中学生
-
-[おかゆグループ](https://github.com/okayugroup)所属
+2024年6月に[おかゆグループ](https://github.com/okayugroup)を設立し、現在メンバーが私を含め２人所属しています！
 
 ![](https://komarev.com/ghpvc/?username=yossy4411&color=green)
 
-## よく使う言語
-- C#
-- Java
-- Rust
-- Python
-- Go
-- C++
+### 💪 主なスキル
+- 💻 **プログラミング言語**: C#, Python, Rust, JavaScript, Go, PHP, C++ など
+- 🌐 **フロントエンド**: Avalonia, Flutter, Vue.js, iced(Rust) など
+- 📡 **バックエンド**: Go, .NET Core
+- 🖥️ **開発環境**: JetBrains IDE, VSCode
 
-## たまに使う言語
-- PHP
-- Ruby
-- JavaScript
+### 🌟 取り組んでいるプロジェクト
+- **[OGSP](https://github.com/okayugroup/ogsp-obsidianote)**: みんなでつくる防災プロジェクト
+- **歌い手ファンメイドページ**: 好きを広げ、音楽をもっと楽しくするウェブサイト
+  
+### 🧠 興味のある分野
+- IoTデバイス開発
+- 3Dグラフィックスと地図描画
+- オープンソース貢献
 
-## 最近の動向
+---
 
-震度計を作る！そして緊急地震速報みたいな仕組みも作りたい！
+📊 **GitHub Stats**
 
-ただ、流石に緊急地震速報をそのまま作ったら犯罪になるっぽい。
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yossy4411&show_icons=true&theme=radical)
 
+💻 **主な言語**
 
-## ブログも見てね
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossy4411&layout=compact&theme=radical)
 
-https://blog.okayugroup.com
+---
+### 🔗 リンク
+- [**GitHub**](https://github.com/yossy4411/) - オープンソースの拠点
+- **Qiita** - 開発ブログ
+- [おかゆの日記](https://blog.okayugroup.com) - 生活のブログ
+- [YouTube](https://youtube.com/@yossy4411) - 遊び場
