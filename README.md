@@ -1,14 +1,14 @@
 <div align="center">
 
-### こんにちは！私は **yossy4411** です
+### こんにちは！僕が **yossy4411** だよ。
 
 **日本語** | [English](./README-ENG.md)
 
-🎯 **中学生プログラマー** | 🚀 **フルスタックエンジニア** | 💡 **創造と革新を追求**
+🎯 **中学生プログラマー** | 🚀 **フルスタックエンジニア**
 
 ---
 
-*「コードで世界を変える」それが私の使命です*
+*「コードで世界をより良くしたい」、これが原動力です*
 
 ![](https://komarev.com/ghpvc/?username=yossy4411&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/yossy4411?label=Follow&style=social)](https://github.com/yossy4411)
@@ -22,7 +22,7 @@
 
 ## 私について
 
-プログラミングとの出会いは小学校。単純な「面白さ」のScratchから、今ではGitHubで**コードを通じて社会に貢献する**ことが私の情熱となっています。
+プログラミングとの出会いは小学校でした。Scratchから始まり、現在ではGitHubで**コードを通じて社会に貢献する**ことを目標にして日常を生活しています。
 
 また、**防災**について興味があり、地震計の独自開発やWeb3から発想を得た情報システムの構築にも力を入れています。
 
@@ -40,8 +40,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) -->
 
 ### フレームワーク & ツール
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -57,9 +57,9 @@
 | 分野 | 技術スタック |
 |------|-------------|
 | **フロントエンド** | Avalonia, Next.js, iced(Rust) |
-| **バックエンド** | Go, .NET Core, PHP |
+| **バックエンド** | Go, .NET Core |
 | **データベース** | SQLite, PostgreSQL |
-| **OS・環境** | Linux, Windows, Docker |
+| **OS・環境** | Linux, Windows, Docker, Kubernetes |
 
 ## 注目プロジェクト
 
@@ -97,7 +97,7 @@ mindmap
       3Dグラフィックス
         Unity
         Blender
-        WebGPU (wgpu)
+        WebGPU
       ウェブ開発
         フルスタック
         API設計
@@ -107,8 +107,10 @@ mindmap
         ONNX
         データ分析
       クラウド
-        Docker
-        CI/CD
+        AWS
+        Kubernetes
+          Docker
+          CI/CD
       セキュリティ
         暗号化
         TLS
